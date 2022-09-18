@@ -1,0 +1,16 @@
+C:\Users\lev\source\repos\ForDD\ScanCount\bin\Debug\net5.0\ScanCount.exe
+C:\Users\lev\source\repos\ForDD\ScanCount\bin\Debug\net5.0\ScanCount.deps.json
+C:\Users\lev\source\repos\ForDD\ScanCount\bin\Debug\net5.0\ScanCount.runtimeconfig.json
+C:\Users\lev\source\repos\ForDD\ScanCount\bin\Debug\net5.0\ScanCount.runtimeconfig.dev.json
+C:\Users\lev\source\repos\ForDD\ScanCount\bin\Debug\net5.0\ScanCount.dll
+C:\Users\lev\source\repos\ForDD\ScanCount\bin\Debug\net5.0\ScanCount.pdb
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.csproj.AssemblyReference.cache
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.AssemblyInfoInputs.cache
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.AssemblyInfo.cs
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.csproj.CoreCompileInputs.cache
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.dll
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\refint\ScanCount.dll
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.pdb
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ScanCount.genruntimeconfig.cache
+C:\Users\lev\source\repos\ForDD\ScanCount\obj\Debug\net5.0\ref\ScanCount.dll
